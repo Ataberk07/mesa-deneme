@@ -1,0 +1,40 @@
+{
+  "bot": {
+    "token": "",
+    "id": "",
+    "status": {
+      "activity": "streaming",
+      "text": "%onDutyPolice% kişi şuanda mesaide!",
+      "twitch": "https://www.twitch.tv/example",
+      "status": "idle"
+    }
+  },
+  "guild": {
+    "id": ""
+  },
+  "settings": {
+    "departmentName": "LSPD",
+    "departmentLogo": "https://static.wikia.nocookie.net/nopixel/images/4/43/LSPD3.png",
+    "departmentBanner": "https://forum.cfx.re/uploads/default/original/4X/f/7/e/f7e79012c44e49af0a8f38dbb0d70dc324f3f9a7.png",
+    "departmentColor": "#0000ff",
+    "roles": {
+      "officers": ["", "", ""]
+    },
+    "channels": {
+      "log": ""
+    },
+    "emojis": {
+      "department": "👮",
+      "on": "🟩",
+      "off": "🟥",
+      "warning": "⚠️",
+      "info": "📋",
+      "clock": "⏲️"
+    }
+  },
+  "commands": {
+    "activeDuty": {
+      "requiredRole": ""
+    }
+  }
+}
